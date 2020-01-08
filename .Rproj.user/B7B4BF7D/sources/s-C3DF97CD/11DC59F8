@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578400510399.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "11DC59F8",
+    "lastKnownWriteTime" : 1578401010,
+    "last_content_update" : 1578401010551,
+    "path" : "~/Dropbox/Sajuria/Prez_UDD_Jan_20/Untitled.Rmd",
+    "project_path" : "Untitled.Rmd",
+    "properties" : {
+        "cursorPosition" : "33,5",
+        "scrollLine" : "24",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
